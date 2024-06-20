@@ -1,5 +1,5 @@
 var currentVersion = 0.3;
-var gameSpeed = 1;
+var gameSpeed = 0.5;
 var player = {
   spawnPoint: newSave(),
   isDead: false,
